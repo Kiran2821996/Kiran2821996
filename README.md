@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Kiran2821996
+- 👋 Hi, I’m kiran
 - 🌱 I’m currently learning MERN stack
 - 💞️ I’m looking to collaborate on Front end applications
 - 📫 How to reach me https://www.linkedin.com/in/bdkirankumar/
