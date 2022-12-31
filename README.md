@@ -1,6 +1,6 @@
-<!-- hello everyone 👋 i'm &#128512; Hema ... -->
+<!-- hello everyone 👋 i'm &#128512; Kiran ... -->
 
-<h1 align="center">Hi , I'm Hema Mane <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hi , I'm Kiran Kumar <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 #💫 About Me:
  I am from Puducherry (U.T), graduated in mechanical engineering. Seeing how a person can grow in the software industry if he/she puts in the effort. Learning coding was the thing that always fascinated I was curious how people design this application that simply makes our life better, and now I feel incredibly enthusiastic that I was able to learn and implement that knowledge in making real-time projects.<br><br>I've spent around 9 months in a Bootcamp practicing and implementing core concepts of HTML, CSS, JavaScript, React, and Redux and learning several libraries like Bootstrap, Material UI, Ant Designs, and react-charts. I love studying these frameworks and implementing my imagination to develop projects. Looking forward to learning more programming languages and frameworks.
 
