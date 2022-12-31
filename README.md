@@ -4,7 +4,7 @@
 #💫 About Me:
  I am from Puducherry (U.T), graduated in mechanical engineering. Seeing how a person can grow in the software industry if he/she puts in the effort. Learning coding was the thing that always fascinated I was curious how people design this application that simply makes our life better, and now I feel incredibly enthusiastic that I was able to learn and implement that knowledge in making real-time projects.<br><br>I've spent around 9 months in a Bootcamp practicing and implementing core concepts of HTML, CSS, JavaScript, React, and Redux and learning several libraries like Bootstrap, Material UI, Ant Designs, and react-charts. I love studying these frameworks and implementing my imagination to develop projects. Looking forward to learning more programming languages and frameworks.
 
-
+<div align="center" >
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/bdkirankumar/) 
 
@@ -20,5 +20,6 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Kiran2821996&icon=0&color=0)](https://visitcount.itsvg.in)
+ </div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
